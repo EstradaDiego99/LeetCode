@@ -1,3 +1,6 @@
+// Diego Estrada Talamantes
+// devdiegoest@gmail.com
+
 import java.util.HashMap;
 
 public class LC001 {
