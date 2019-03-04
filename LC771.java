@@ -1,8 +1,7 @@
-import java.util.HashSet;
-
 // Diego Estrada Talamantes
 // devdiegoest@gmail.com
 
+import java.util.HashSet;
 public class LC771{
 
     public static void main(String[] args) {
